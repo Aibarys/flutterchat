@@ -1,0 +1,14 @@
+{
+  "name": "flutterchat",
+  "version": "1.0.0",
+  "description": "flutter chat on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "aiba",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
